@@ -1,4 +1,5 @@
 #include <stdio.h>
+/*BT20CSE074_CPL_Assignment_3.c*/
 #include <stdlib.h>
 #define HEAPSIZE 1024 //Assuming heapsize as 1024 bytes/blocks for simulation purpose
 typedef enum{FAILURE,SUCCESS} status_code; // defined enum for using while linked lists are passed by reference then to show malloc is done or not
